@@ -1,8 +1,12 @@
-# Getting started with Tailwind CSS framework
+# Getting started with Tailwind CSS framework and Purge CSS
+
+## Purpose
+
+Optimize and remove unused Tailwind CSS rules from a simple and custom web application.
 
 ## Tutorial
 
-Tutorial can be found in [Scrimba - Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3) for free.
+Initial tutorial can be found in [Scrimba - Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3) for free.
 
 ## Artifact
 
@@ -18,7 +22,7 @@ The resulting artifact is a responsive web page that looks like this :
 
 ## Demonstration
 
-The site has been published in [Surge](https://surge.sh/) : [tailwindcss-trial.surge.sh](https://tailwindcss-trial.surge.sh/)
+The site has been published in [Surge](https://surge.sh/) : [tailwindcss-purge-trial.surge.sh](https://tailwindcss-purge-trial.surge.sh/)
 You can freely access it and test the page.
 
 ## Install
