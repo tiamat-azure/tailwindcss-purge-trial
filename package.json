@@ -1,0 +1,30 @@
+{
+  "name": "tailwindcss-purge-trial",
+  "version": "1.0.0",
+  "description": "Tailwind CSS and Purge CSS integration",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "purgecss": "^2.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiamat-azure/tailwindcss-purge-trial.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "purge",
+    "purgecss",
+    "demo"
+  ],
+  "author": "tiamat.azure@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiamat-azure/tailwindcss-purge-trial/issues"
+  },
+  "homepage": "https://github.com/tiamat-azure/tailwindcss-purge-trial#readme"
+}
