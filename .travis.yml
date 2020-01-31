@@ -20,6 +20,7 @@ script:
   - cp src/main/webapp/*.* dist/
 
 deploy:
+  skip_cleanup: true
   - provider: surge
     project: ./dist/
     domain: tailwindcss-purge-trial.surge.sh
